@@ -16,6 +16,13 @@ Compilation tool  : gcc-3.4.6-2f
 Linux Kernel BASE : 2.6.21.5
 ------------------------------------
 *=============================================================================
+Model: LSGZ_1B_DEV                   PCB: 2.0      	Author: 唐海峰
+Old Linux Kernel file: 2.6.21.5. 2011-12-29             Build Date: 12/31/2011
+New Linux Kernel file: 2.6.21.5. 2011-12-31
+------------------------------------
+Description for FAE:
+1. 更新内核和GMAC控制器驱动：修复传输大文件时网卡中断连接和丢包的问题。
+*=============================================================================
 Model: LSGZ_1B_DEV                   PCB: 2.0      	Author:唐海峰
 Old Linux Kernel file: 2.6.21.5.2011-12-22              Build Date: 12/29/2011
 New Linux Kernel file: 2.6.21.5.2011-12-29
